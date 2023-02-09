@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @PurpleFlood
-- 👀 I’m interested in programming software technologies
-- 🌱 I’m currently learning web languages
-- 💞️ I’m looking to collaborate on bts SIO
+- I will bypass my flying thought, 'cause i want improving
 
 <!---
 PurpleFlood/PurpleFlood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
