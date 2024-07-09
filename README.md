@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @PurpleFlood
-- I will bypass my flying thought, 'cause i want improving
+- I will bypass my flying thought, 'cause i want improving myself
 
 <!---
 PurpleFlood/PurpleFlood is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
